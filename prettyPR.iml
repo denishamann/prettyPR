@@ -12,12 +12,12 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="com.github.gumtreediff:core:2.0.0" level="project" />
-    <orderEntry type="library" name="org.eclipse.jetty:jetty-servlets:9.3.4.RC0" level="project" />
     <orderEntry type="library" name="org.glassfish.jersey.containers:jersey-container-servlet-core:2.9" level="project" />
     <orderEntry type="library" name="org.glassfish.jersey.core:jersey-server:2.22" level="project" />
-    <orderEntry type="library" name="org.glassfish.jersey.media:jersey-media-json-jackson1:2.22" level="project" />
     <orderEntry type="library" name="org.json:json:20160212" level="project" />
     <orderEntry type="library" name="fr.inria.gforge.spoon:spoon-core:5.0.0" level="project" />
     <orderEntry type="library" name="gumtree-spoon-ast-diff" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty:jetty-servlet:9.3.0.RC0" level="project" />
+    <orderEntry type="library" name="org.glassfish.jersey.media:jersey-media-json-jackson:2.22.2" level="project" />
   </component>
 </module>

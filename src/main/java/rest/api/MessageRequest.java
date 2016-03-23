@@ -12,7 +12,7 @@ public class MessageRequest {
 
     private String oldFileName;
     private String newFileName;
-    private String olfFile;
+    private String oldFile;
     private String newFile;
 
     public String getOldFileName() {
@@ -31,12 +31,12 @@ public class MessageRequest {
         this.newFileName = newFileName;
     }
 
-    public String getOlfFile() {
-        return olfFile;
+    public String getOldFile() {
+        return oldFile;
     }
 
-    public void setOlfFile(String olfFile) {
-        this.olfFile = olfFile;
+    public void setOldFile(String oldFile) {
+        this.oldFile = oldFile;
     }
 
     public String getNewFile() {

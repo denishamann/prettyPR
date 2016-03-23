@@ -88,7 +88,7 @@ public class Api {
     @Produces({MediaType.APPLICATION_JSON})
     public String prettypr(MessageRequest msg) throws Exception {
 
-        PrettyPR prettyPR = new PrettyPR(msg.getOldFileName(), msg.getOlfFile(), msg.getNewFileName(), msg.getNewFile());
+        PrettyPR prettyPR = new PrettyPR(msg.getOldFileName(), msg.getOldFile(), msg.getNewFileName(), msg.getNewFile());
 
         return prettyPR.getListeActions();
 
