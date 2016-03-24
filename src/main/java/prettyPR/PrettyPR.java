@@ -25,7 +25,6 @@ public class PrettyPR {
     private String nomOld;
 
     public PrettyPR(String nomOld, String oldContent, String nomNew, String newContent) {
-        super();
         this.oldContent = oldContent;
         this.newContent = newContent;
         this.nomNew = nomNew;

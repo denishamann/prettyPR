@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gumtree-spoon-ast-diff">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/gumtree-spoon-ast-diff.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
